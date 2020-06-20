@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Teclado",
+      "price": 22.50
+    },
+    {
+        "id": 2,
+        "name": "Mouse",
+        "price": 15.80
+    },
+    {
+        "id": 3,
+        "name": "Notebook Acer",
+        "price": 2800.00
+    },
+    {
+        "id": 4,
+        "name": "Monitor 23'",
+        "price": 1090.00
+    }
+  ]
+}
