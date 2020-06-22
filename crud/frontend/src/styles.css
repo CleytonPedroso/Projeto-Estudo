@@ -2,3 +2,15 @@
 
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+/* Arquivo de Style global, pode ser aplicado a todo o projeto */
+
+/* Definindo a classe red com uma cor vermelha em especifico para todo o projeto */
+.red {
+  color: rgb(227, 94, 107)
+}
+
+/* Criando classe v-middle (vertical middle) para alinhar o conteudo no eixo vertical ao meio. */
+.v-middle {
+  vertical-align: middle;
+}

@@ -1,0 +1,23 @@
+.footer {
+  /* Posição fixa */
+  position: fixed;
+
+  /* Definindo que será no final da página  */
+  bottom: 0;
+
+  /*  */
+  /* display: flex; */
+
+  /* Justificando o texto na linha */
+  justify-content: flex-end;
+}
+
+/* Aplicando css na primeira tag <span> que estão dentro da classe footer, caso exista uma tag diferente e tenha um
+span dentro dela o css não se aplica pois na definição da classe no css usamos o sinal de maior  */
+.footer > span {
+  /* Define o tamanho da fonte */
+  font-size: 1.1rem;
+
+  /* Define o peso da fonte (Intensidade do negrito */
+  font-weight: 300;
+}

@@ -1,0 +1,17 @@
+.sidenav {
+  /* Adicionando cor de fundo para todo o SidNav */
+  background: #3151b5;
+
+  /* Definindo a largura da barra de navegação */
+  width: 200px;
+}
+
+.sidenav a {
+  /* Defiindo a cor de todos os itens da <a> dentro do sidenav */
+  color: #fff;
+}
+
+.sidenav i {
+  /* Definir espaçamento interno para <i> dento do sidenav */
+  padding-right: 15px;
+}
